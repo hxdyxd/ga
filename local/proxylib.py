@@ -143,7 +143,7 @@ class LRUCache(object):
 class CertUtil(object):
     """CertUtil module, based on mitmproxy"""
 
-    ca_vendor = 'SOCOCOS.COM'
+    ca_vendor = 'GA'
     ca_keyfile = 'CA.crt'
     ca_thumbprint = ''
     ca_certdir = 'certs'
